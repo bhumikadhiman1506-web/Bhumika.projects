@@ -1,3 +1,1 @@
-AI project 
-<br>
-Used various AI tools 
+Added AI project pdf 
